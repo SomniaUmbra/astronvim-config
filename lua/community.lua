@@ -10,4 +10,5 @@ return {
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.indent.mini-indentscope" },
+  -- { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
 }
